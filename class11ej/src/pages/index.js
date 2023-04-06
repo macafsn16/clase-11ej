@@ -5,6 +5,7 @@ import Button from './componente/button'
 import Cardgroud from './componente/cardgroup.js'
 import Video from './componente/videos'
 import Audio from './componente/audio'
+import Youtube from './componente/youtube'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -27,9 +28,12 @@ export default function Home() {
           <Cardgroud></Cardgroud>
         </div>
         <br></br>
+        <Youtube></Youtube>
+        <br></br>
         <Audio></Audio>
         <br></br>
         <Video></Video>
+
       </main>
     </>
   )
