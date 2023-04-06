@@ -1,0 +1,65 @@
+html{
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/25/23/15/moon-1859616_1280.jpg);
+  }
+  main{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #6de175;
+    padding-top: 100px;
+  }
+  h1{
+  
+    color: aliceblue;
+    padding: 100;
+    text-align: left;
+  }
+  button{
+    font-size: 30px;
+    color: rgb(255, 38, 0);
+    background: #2dd9ef;
+  
+  }
+  .card{
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+    width: 350px;
+    background-color: #e8e48133;
+   
+  }
+  .card h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #d81919;
+    text-align: center;
+  }
+  .card h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #d89c19;
+    text-align: center;
+  }
+  .card img{
+    margin: 15px;
+    border-radius: 20px;
+  }
+  .card span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    display:block;
+    text-align: justify;
+  }
+  
+  .cardgroup{
+    background-color: aliceblue;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+  }
